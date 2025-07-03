@@ -4,7 +4,7 @@
 🌱 Passionate about building smart, connected systems
 
 ### 🔧 Tech Stack
-- **Languages**: Dart, C/C++, Python
+- **Languages**: Dart, C, Python
 - **Frameworks**: Flutter, Firebase, Arduino, ESP32
 - **Tools**: Git, VS Code, MATLAB, Proteus
 - **Others**: REST APIs, Sensors, Real-time Data
